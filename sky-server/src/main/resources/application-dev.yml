@@ -11,3 +11,9 @@ sky:
     access-key-id: LTAI5tSXGSt4EtkdRL4obo7k
     access-key-secret: jD7HuyRzO0uHKyGYRhYcsXNKkmPCSr
     bucket-name: sky-itcast-zhensi
+  redis:
+    host: localhost
+    port: 6379
+    password: 862482
+    database: 10
+
